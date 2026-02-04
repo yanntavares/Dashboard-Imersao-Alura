@@ -18,4 +18,4 @@ E, por último, novamente no terminal, rode o programa via comando:
 > `streamlit run app.py`
 
 ## Intenção com o repositório
-A intenção deste repositório foi para pôr em prática o que vi durante a imersão, além de aprender sobre o tratamento de dados funciona e como criar dashboards para melhor visualização dos mesmos.
+A intenção deste repositório foi para pôr em prática o que vi durante a imersão, além de aprender sobre como o tratamento de dados funciona e como criar dashboards para melhor visualização dos mesmos.
