@@ -1,7 +1,7 @@
 # Imersão de dados
 
 O seguinte repositório tem como intuito a aplicação dos conhecimentos obtidos durante a Imersão de Dados com Python da Alura, nela, foi utilizada uma base de dados contendo informações de milhares 
-profissionais de TI e, utilizando bibliotecas especializadas em dados como a `pandas`, `seaborn`, `matplotlib`, `plotly` e `streamlit `, foram criados gráficos e dashboards interativos.
+profissionais de TI e, utilizando bibliotecas especializadas em dados como a `pandas`, `seaborn`, `matplotlib`, `plotly` e `streamlit`, foram criados gráficos e dashboards interativos.
 
 ## Como executar em sua máquina
 
